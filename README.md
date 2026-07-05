@@ -65,7 +65,6 @@ The notebook includes:
 - ✅ Missing Value Analysis
 - ✅ Data Cleaning
 - ✅ Feature Engineering
-- ✅ Statistical Summary
 - ✅ Correlation Analysis
 - ✅ Data Visualization
 - ✅ Trend Analysis
